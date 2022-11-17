@@ -1,0 +1,28 @@
+import swal from 'sweetalert2';
+// function Add ()=>{
+//   const[firstName,seFirstname]=useState('')
+//   const handleAdd = e =>{
+//   e.preventDefault();
+//   if (!firstName)
+//   return(
+//     console.log('please write your name')
+//   )
+// }
+// return (
+//   <div className='small-container'>
+//     <form onSubmit={ handleAdd }>
+//       <h1>
+//         Add Employee
+//         </h1>
+//         <label htmlFor="firstNAme">FirstName </label>
+//         <Input
+//         id="lastName"
+//         type = "text"
+//         name="FirstName"
+//         value={firstName}
+//         onChange={e=>setFirstName(e.target.value)}
+//         />
+//         </form>
+//         </div>
+// )
+// };
